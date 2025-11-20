@@ -42,5 +42,5 @@ npm start
 cd frontend
 cd vite-project
 npm install
-npm run serve
+npm run dev
 ```
